@@ -27,7 +27,7 @@ Feel free to ask on support page, if you have any question.
 
 == Screenshots ==
 
-1.
+1. It adds a new field Redirect URL to contact form settings page.
 
 == Changelog ==
 
